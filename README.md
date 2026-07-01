@@ -18,7 +18,7 @@ mamba activate aiv_consensus_minion_pipeline_env
 ```
 and then executing the pipeline on the example data provided
 ```
-bash minion_aiv_consensus.sh examples/sample.fastq.gz output_dir_example 1
+bash minion_aiv_consensus.sh aiv_consensus_minion_pipeline/examples/sample.fastq.gz output_dir_example 1
 ```
 
 ## Usage
