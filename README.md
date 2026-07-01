@@ -46,7 +46,7 @@ Please cite the GitHub repository:
 [https://github.com/izsvenezie-virology/aiv_consensus_minion_pipeline](https://github.com/izsvenezie-virology/aiv_consensus_minion_pipeline)
 
 ## License
-This pipeline is licensed under the GNU Affero v3 license (see [LICENSE](https://github.com/izsvenezie-virology/minion_aiv_pipeline/blob/main/LICENSE)).
+This pipeline is licensed under the GNU Affero v3 license (see [LICENSE](https://github.com/izsvenezie-virology/aiv_consensus_minion_pipeline/blob/main/LICENSE)).
 
 >Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Health and Digital Executive Agency (HEDEA). 
 >Neither the European Union nor the granting authority can be held responsible for them
