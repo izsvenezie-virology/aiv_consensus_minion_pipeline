@@ -14,11 +14,11 @@ mamba env create -p aiv_consensus_minion_pipeline_env -f aiv_consensus_minion_pi
 ```
 You can check if installation was successful in your system by activating the environment with the following command
 ```
-mamba activate aiv_consensus_minion_pipeline_env
+mamba activate ./aiv_consensus_minion_pipeline_env
 ```
 and then executing the pipeline on the example data provided
 ```
-bash minion_aiv_consensus.sh aiv_consensus_minion_pipeline/examples/sample.fastq.gz output_dir_example 1
+bash aiv_consensus_minion_pipeline/minion_aiv_consensus.sh aiv_consensus_minion_pipeline/examples/sample.fastq.gz output_dir_example 1
 ```
 
 ## Usage
