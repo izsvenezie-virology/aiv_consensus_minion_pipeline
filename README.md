@@ -10,7 +10,7 @@ git clone https://github.com/izsvenezie-virology/aiv_consensus_minion_pipeline
 ```
 and to create a mamba environment using the provided yml file.
 ```
-mamba env create -p aiv_consensus_minion_pipeline_env -f env.yml
+mamba env create -p aiv_consensus_minion_pipeline_env -f aiv_consensus_minion_pipeline/env.yml
 ```
 You can check if installation was successful in your system by activating the environment with the following command
 ```
